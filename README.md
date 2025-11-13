@@ -1,0 +1,2 @@
+# product_app_public
+servlet/jspとjavaとsqlを組み合わせた商品紹介サイト
