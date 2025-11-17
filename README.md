@@ -29,7 +29,7 @@
 ![商品一覧](https://github.com/kuroda-tech/product_app_public/blob/main/product_app_public/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-11-13%2010.56.09.png?raw=true)
 
 ### 登録画面
-![登録画面](https://github.com/kuroda-tech/product_app_public/blob/main/product_app_public/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-11-13%2010.56.14.png?raw=true)
+![登録画面](https://github.com/kuroda-tech/product_app_public/blob/main/product_app_public/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-11-17%2010.59.00.png?raw=true)
 
 ### 商品検索画面
 ![商品検索画面](https://github.com/kuroda-tech/product_app_public/blob/main/product_app_public/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-11-13%2010.56.37.png?raw=true)
